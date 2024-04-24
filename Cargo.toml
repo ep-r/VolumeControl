@@ -1,5 +1,5 @@
 [package]
-name = "VolumeControl"
+name = "volume_control"
 version = "0.1.0"
 edition = "2021"
 
@@ -8,3 +8,4 @@ edition = "2021"
 [dependencies]
 crossterm = "0.27.0"
 ratatui = "0.26.2"
+rodio = "0.17.3"
